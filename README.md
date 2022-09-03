@@ -3,7 +3,7 @@
 ### line 3
 #### line 4
 
-- `clone project wuth `git pull`
+- `clone project with `git pull`
 
 ```php
       <?php echo "code block is here";
