@@ -3,10 +3,11 @@
 ### line 3
 #### line 4
 
-- `inline code`
+- `clone project wuth `git pull`
 
 ```php
-<?php echo "code block is here";
+      <?php echo "code block is here";
+      
 ```
-
+mkdir test && cd test
 - end of line
